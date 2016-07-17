@@ -1,0 +1,5 @@
+E:\Programming\#mentoring2016\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+E:\Programming\#mentoring2016\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+E:\Programming\#mentoring2016\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+E:\Programming\#mentoring2016\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+E:\Programming\#mentoring2016\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
